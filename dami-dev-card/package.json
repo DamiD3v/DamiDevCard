@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "engines": {
+    "node": ">=14.x" // Ajusta esto según la versión de Node que estés usando
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
